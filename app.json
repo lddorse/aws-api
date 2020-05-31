@@ -1,0 +1,17 @@
+{
+  "name": "aws-api",
+  "displayName": "aws-api",
+  "expo": {
+    "name": "aws-api",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
